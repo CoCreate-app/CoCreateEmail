@@ -74,7 +74,7 @@
         "node-html-parser": "5.3.3",
         "nodemailer": "6.7.5",
         "npmlog": "6.0.2",
-        "openpgp": "5.2.1",
+        "openpgp": "5.10.1",
         "pem-jwk": "2.0.0",
         "punycode": "2.1.1",
         "pwnedpasswords": "1.0.6",
