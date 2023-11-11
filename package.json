@@ -44,7 +44,7 @@
         "@root/csr": "0.8.1",
         "accesscontrol": "2.2.1",
         "argon2-browser": "1.18.0",
-        "axios": "0.27.2",
+        "axios": "1.6.0",
         "base32.js": "0.1.0",
         "bcryptjs": "2.4.3",
         "bull": "3.29.3",
